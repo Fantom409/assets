@@ -114,7 +114,7 @@ abstract class TestCase extends BaseTestCase
     }
 
     /**
-     * Verify sources publish files assetbundle.
+     * Verify sources publish files asset bundle.
      *
      * @param string $type
      * @param AssetBundle $bundle
